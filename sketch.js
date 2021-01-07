@@ -12,8 +12,8 @@ var mangoes1,mangoes2,mangoes3,mangoes4,mangoes5,mangoes6,mangoes7;
 var slingShot;
 function preload()
 {
-  g = loadImage("Plucking mangoes/g.jpg");
-  boy = loadImage("Plucking mangoes/boy.png");
+  g = loadImage("g.jpg");
+  boy = loadImage("boy.png");
 }
 
 function setup() {
